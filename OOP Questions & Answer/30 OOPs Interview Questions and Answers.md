@@ -1,3 +1,9 @@
+**References**
+
+[https://www.geeksforgeeks.org/oops-interview-questions/](https://www.geeksforgeeks.org/oops-interview-questions/)
+
+[https://leetcode.com//top-16-oops-interview-questions-with-answers](https://leetcode.com/discuss/interview-question/object-oriented-design/4440061/top-16-oops-interview-questions-with-answers)
+
 ## 1. What is Object-Oriented Programming (OOP)?
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of objects, which encapsulate data (attributes) and behavior (methods). These objects interact with each other to build software systems. OOP promotes code reusability, scalability, and maintainability and is widely used in languages like Python, Java, and C++.
 
